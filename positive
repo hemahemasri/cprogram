@@ -1,0 +1,15 @@
+#include<stdio.h>
+vid moin()
+{
+doublenumber;
+int i;
+printf("enter the number:");
+if(i<0)
+{
+printf("the entered value is negative");
+}
+else
+{
+printf("the entered number is positive");
+}
+}
